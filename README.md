@@ -17,8 +17,6 @@
 4. [Usage](#usage)  
 5. [Folder Structure](#folder-structure)  
 6. [Results](#results)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
 
 </details>
 
@@ -57,3 +55,14 @@ Ensure you have the following installed:
    ```bash
    git clone <repository-link>
    cd <repository-name>
+2.Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+    📊 Results
+After following this notebook:
+
+Models will achieve better performance on minority classes.
+You will understand how to balance datasets effectively.
+Explore comparative performance metrics (F1-score, Precision-Recall curves, etc.).
+
